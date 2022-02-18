@@ -8,3 +8,5 @@ User can see that there is a class named Application which includes a menu with 
 Also, it is worth noting that the menu in application is separated to three parts. The first one is about getting top-headlines news either for user’s country by detecting automatically user’s country via IP Address or for another country or a specific category. The second one is about getting everything news according to specific criterias. The third one is about exiting the program when user finishes their tests. 
 
 Last but not least, it has to be referred that when user types a choice of the menu, there are full and clear instructions to help them decide what parameters should type about the news they want to search for.
+
+It is important to be referred, that in order to run this project user has firstly to write their apiKey and ipv6 foolowing the instructions in README of repository «NewsAPΙ».
