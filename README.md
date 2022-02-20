@@ -9,4 +9,4 @@ Also, it is worth noting that the menu in application is separated to three part
 
 Last but not least, it has to be referred that when user types a choice of the menu, there are full and clear instructions to help them decide what parameters should type about the news they want to search for.
 
-P.S. Ιn order to run this project, user has to write firstly their apiKey and ipv6 following the instructions in README of repository «NewsAPΙ».
+P.S. Ιn order to run the project, user has to import both repositories «NewsAPI» and «NewsAPP» in their Java programm (I personally used the Eclipse IDE for Java Developers). Also, before running the programm, user has to write firstly their apiKey and ipv6 following the instructions in README of repository «NewsAPΙ».
